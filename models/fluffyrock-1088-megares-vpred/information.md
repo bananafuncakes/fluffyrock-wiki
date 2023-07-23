@@ -1,3 +1,7 @@
+---
+description: Basic information about the model and discoveries surrounding it.
+---
+
 # Information
 
 ### Synopsis

@@ -1,3 +1,7 @@
+---
+description: Things you will require to install the model and a guide to install the model.
+---
+
 # Installation
 
 ### Installation Info
@@ -80,7 +84,7 @@ For proper usage of the model. It is strongly recommended to install the config 
 
 You can find this at the link below.
 
-{% embed url="https://github.com/Seshelle/CFG_Rescale_webui" %}
+{% @github-files/github-code-block url="https://github.com/Seshelle/CFG_Rescale_webui" %}
 
 To install this extension, you will need to open your WebUI.
 
