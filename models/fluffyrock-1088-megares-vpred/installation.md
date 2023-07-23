@@ -4,7 +4,7 @@ description: Things you will require to install the model and a guide to install
 
 # Installation
 
-### Installation Info
+## Installation Info
 
 Unlike typical Stable Diffusion 1.5 models, a few extra steps are required for the proper installation and usage of fluffyrock-1088-megares-vpred
 
@@ -36,7 +36,7 @@ Finally, you will need the config rescale extension.
 
 {% @github-files/github-code-block url="https://github.com/Seshelle/CFG_Rescale_webui" %}
 
-### Guide
+## Guide
 
 #### Step 1.
 

@@ -4,7 +4,7 @@ description: Basic information about the model and discoveries surrounding it.
 
 # Information
 
-### Synopsis
+## Synopsis
 
 fluffyrock-1088-megares-vpred is an experimental model that uses v-prediction to fix Stable Diffusions 1.5 poor noise scheduling and sample steps. It does this in four different ways.
 
@@ -17,7 +17,7 @@ These modifications have been based upon the paper "Common Diffusion Noise Sched
 
 {% embed url="https://doi.org/10.48550/arXiv.2305.08891" %}
 
-### Discoveries
+## Discoveries
 
 Experimentation with the model has showed a variety of possible improvements, including but not excluded to.
 
