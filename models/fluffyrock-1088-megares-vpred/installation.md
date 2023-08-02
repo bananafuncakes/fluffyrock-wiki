@@ -38,7 +38,7 @@ Finally, you will need the config rescale extension.
 
 ## Guide
 
-#### Step 1.
+#### Downloading
 
 You will need to move the epoch for the v-prediction model into your Stable-diffusion folder of the Automatic1111 WebUI.
 
@@ -52,7 +52,7 @@ You may have a newer version of the model, as indicated by the number next to `e
 
 Simply place the epoch that you have into the folder indicated.
 
-#### Step 2.
+#### Setting up Configuration
 
 You will now need to use the download the .yaml file. This can be done by clicking onto the Hugging Face configuration file link above. You should then right-click on `raw` and then `Save Link As...` then. You should save it in the same folder as where you have placed your model epoch.
 
@@ -78,7 +78,7 @@ Your final result should look like this.
 
 Once you have completed this. Your WebUI will now know to load the model in v-prediction.
 
-#### Step 3.
+#### Extension Installation
 
 For proper usage of the model. It is strongly recommended to install the config rescale extension.
 
